@@ -35,7 +35,7 @@
         "bchaddrjs": "^0.5.2",
         "bs58check": "^3.0.1",
         "bitcoinjs-lib": "^5.2.0",
-        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing.git"
+        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing-old.git"
     },
     "engines": {
         "node": ">=16"
